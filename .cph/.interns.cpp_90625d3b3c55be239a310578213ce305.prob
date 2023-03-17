@@ -1,0 +1,1 @@
+{"name":"Local: interns","url":"c:\\Users\\naman\\OneDrive\\Desktop\\CPP\\Dev C++\\interns.cpp","tests":[{"id":1655790463989,"input":"2\n5000","output":"1"},{"id":1655790475598,"input":"10\n25003","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\naman\\OneDrive\\Desktop\\CPP\\Dev C++\\interns.cpp","group":"local","local":true}
